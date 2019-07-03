@@ -1,0 +1,46 @@
+{
+  "name": "sensifai-sdk-ngx",
+  "version": "1.0.1",
+  "description": "This Angular client provides a wrapper around Sensifai Image and Video recognition API.",
+  "license": "apache-2.0",
+  "homepage": "https://sensifai.com/",
+  "author": "Sensifai",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular4",
+    "sensifai",
+    "ngx",
+    "pure-js",
+    "image-recognation",
+    "video-recognition",
+    "image-recognition-api",
+    "object-detection",
+    "video-analysis",
+    "video-recognition-api",
+    "face-detection",
+    "face-recognition",
+    "ai"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sensifai/sensifai-sdk-ngx"
+  },
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "main": "bundles/sensifai-sdk-ngx.umd.js",
+  "module": "fesm5/sensifai-sdk-ngx.js",
+  "es2015": "fesm2015/sensifai-sdk-ngx.js",
+  "esm5": "esm5/sensifai-sdk-ngx.js",
+  "esm2015": "esm2015/sensifai-sdk-ngx.js",
+  "fesm5": "fesm5/sensifai-sdk-ngx.js",
+  "fesm2015": "fesm2015/sensifai-sdk-ngx.js",
+  "typings": "sensifai-sdk-ngx.d.ts",
+  "metadata": "sensifai-sdk-ngx.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
